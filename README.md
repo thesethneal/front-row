@@ -1,5 +1,7 @@
-# Final Capstone
+# Front Row
 ​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Front Row is an app tailored to strengthen the engagement between bands and their fans.
+
+Users of the app are able to follow their favorite bands, discover new bands, and receive messages from the bands they follow.
+
+For those who manage bands, they can create their own band pages, edit details (upcoming events, images, genres, descriptions), and send messages to their followers.
