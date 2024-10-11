@@ -1,8 +1,8 @@
-# Capstone Starter Project
+# Instructions
 
 ## Database
 
-Inside the `<project-root>/database/` directory, you'll find an executable Bash script (`.sh` file) and several SQL scripts (`.sql` files). These can be used to build and rebuild a PostgreSQL database for the capstone project.
+Inside the `<project-root>/database/` directory, you'll find an executable Bash script (`.sh` file) and several SQL scripts (`.sql` files). These can be used to build and rebuild a PostgreSQL database.
 
 From a terminal session, execute the following commands:
 
@@ -37,7 +37,7 @@ Note: Spring Boot has been configured to run on port `9000` for this project. Yo
 
 ### Datasource
 
-A Datasource has been configured for you in `/src/resources/application.properties`. It connects to the database using the `capstone_appuser` database user. You can change the name of this database if you want, but remember to change it here and in the `create.sh` script in the database folder:
+A Datasource has been configured in `/src/resources/application.properties`. It connects to the database using the `capstone_appuser` database user. You can change the name of this database if you want, but remember to change it here and in the `create.sh` script in the database folder:
 
 ```
 # datasource connection properties
